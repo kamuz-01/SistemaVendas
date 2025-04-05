@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+h1{
+	margin-top: 120px;
+}
+
+.btn-imprimir {
+	padding: 5px 10px;
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	cursor: pointer;
+}
+
+.btn-imprimir:hover {
+	background-color: #45a049;
+}
+
+#tabela-clientes{
+	margin-top: 80px;
+	width: 80% !important;
+}
+
+input{
+	margin-right: 150px;
+}
+
+label{
+	font-weight: bolder;
+	margin-left: 150px;
+}
+
+.dataTables_info{
+	margin-left: 150px;
+	margin-top: 15px;
+	margin-bottom: 50px;
+}
+
+select{
+	margin-left: 10px;
+}
+
+th, td {
+    text-align: center !important;
+}
+
+.next{
+	margin-right: 150px;
+	margin-top: 15px;
+}
