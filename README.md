@@ -20,7 +20,7 @@ O sistema permite que os usuários gerenciem produtos, clientes, relatórios de 
 **Tecnologias utilizadas**
 -------------------------
 
-* Java 21
+* Java 17
 * Spring Boot 3.4.4
 * Spring Data JPA
 * RabbitMQ
