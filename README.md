@@ -2,7 +2,7 @@
 
 API REST Sistema de vendas realizado com SpringBoot e MySQL
 
-**Descrição**
+**📌Descrição**
 ---------------
 
 O SistemaVendas é uma API REST de um sistema de gerenciamento de vendas desenvolvido em Java, Spring Boot, RabbitMQ e MySQL. 
