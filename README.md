@@ -12,9 +12,13 @@ O sistema permite que os usuários gerenciem produtos, clientes, relatórios de 
 -----------------
 
 ✅ Gerenciamento de produtos
+
 ✅ Gerenciamento de clientes
+
 ✅ Relatórios de vendas
+
 ✅ Autenticação de usuários
+
 ✅ Notificação via email quando o valor de um produto ficar abaixo do valor em que foi vendido.
 
 **🛠️Tecnologias utilizadas**
